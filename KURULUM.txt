@@ -1,0 +1,6 @@
+Ticaret İmparatorluğu V53 - web kaynakları
+
+index.html dosyasını açarak çevrimdışı tarayıcıda deneyebilirsiniz.
+Web sunucusunda / klasörüne yükleyin. Service worker için HTTPS veya localhost gereklidir.
+Android uygulamasındaki güncelleme / yedek kaydetme köprüleri normal web tarayıcısında çalışmaz.
+GitHub kaynak deposuna yüklemek için ZIP içindeki dosya ve klasörleri depo köküne çıkarın.
